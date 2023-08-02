@@ -25,5 +25,6 @@ A Full fledge movie and series website where people can come and download movies
 ![Screenshot (6)](https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE/assets/68398911/e88ba41a-79be-4502-9473-477e1b0db9e3)
 
 
-
+## Author
+Annor Gyimah
 
