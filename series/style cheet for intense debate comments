@@ -1,0 +1,23 @@
+#idc-container-parent #idc-container .idc-c .idc-c-t {
+border-left: 4px solid #999;
+color:white
+}
+
+
+
+#idc-container-parent #idc-container .idc-c .idc-c-h {
+background: #F6F6F6;
+border-top: 1px solid #CCC;
+}
+
+#idc-container-parent #idc-container .idc-new {
+background-color: white;
+padding: 10px 15px;
+width: auto;
+
+}
+
+#idc-container-parent #idc-container .idc-head .idc-user {
+background: none;
+background-color: white
+}

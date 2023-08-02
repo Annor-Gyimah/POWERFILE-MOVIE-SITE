@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7 no-js" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8 no-js" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en" class="no-js">
+
+<!-- seriessingle11:03-->
+<head>
+	<!-- Basic need -->
+	<title>Sisyphus: The Myth | Powerfile </title >
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-185047324-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-185047324-1');
+	</script>
+	<!--meta tags-->
+	<meta charset="UTF-8">
+	<meta name="description" content="An unfathomable event introduces an engineer to dangerous secrets and to a woman from the future who has come looking for him.">
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Sisyphus: The Myth" />
+	<meta property="og:description" content="An unfathomable event introduces an engineer to dangerous secrets and to a woman from the future who has come looking for him." />
+	<meta property="og:image" content="https://m.media-amazon.com/images/M/MV5BOGNhM2VhMmItZDc2OS00MGVmLThmNTMtYjkxODNlNTRlZjhiXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" />
+	<meta property="og:url" content="https://powerfile.org/korean/sisyphus.php" />
+	<meta property="og:site_name" content="Powerfile" />
+	<meta name="robots" content="index,follow">
+	<meta charset="UTF-8" >
+	<!--favicon-->
+	<link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon_io/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon_io/favicon-16x16.png">
+	<link rel="manifest" href="favicon_io/site.webmanifest">
+
+    <?php include('ad.php') ?>
+    <!--Google Font-->
+    <link rel="stylesheet" href='http://fonts.googleapis.com/css?family=Dosis:400,700,500|Nunito:300,400,600' />
+	<!-- Mobile specific meta -->
+	<meta name=viewport content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone-no">
+
+	<!-- CSS files -->
+	<link rel="stylesheet" href="css/plugins.css">
+	<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+
+<!-- BEGIN | Header -->
+<?php include('navbar.php') ?>
+<!-- END | Header -->
+
+<div class="hero sr-single-hero sr-single">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<!-- <h1> movie listing - list</h1>
+				<ul class="breadcumb">
+					<li class="active"><a href="#">Home</a></li>
+					<li> <span class="ion-ios-arrow-right"></span> movie listing</li>
+				</ul> -->
+			</div>
+		</div>
+	</div>
+</div>
+<div class="page-single movie-single movie_single">
+	<div class="container">
+		<div class="row ipad-width2">
+			<div class="col-md-4 col-sm-12 col-xs-12">
+				<div class="movie-img sticky-sb">
+					<img src="https://m.media-amazon.com/images/M/MV5BOGNhM2VhMmItZDc2OS00MGVmLThmNTMtYjkxODNlNTRlZjhiXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" alt="">
+					<div class="movie-btn">	
+						<div class="btn-transform transform-vertical red">
+							<div><a href="https://www.youtube.com/embed/THaIZihZoMg" class="item item-1 redbtn"> <i class="ion-play"></i> Watch Trailer</a></div>
+							<div><a href="https://www.youtube.com/embed/THaIZihZoMg" class="item item-2 redbtn fancybox-media hvr-grow"><i class="ion-play"></i></a></div>
+						</div>
+						<div class="btn-transform transform-vertical">
+							<!--<div><a href="#" class="item item-1 yellowbtn"> <i class="ion-card"></i> Buy ticket</a></div>
+							<div><a href="#" class="item item-2 yellowbtn"><i class="ion-card"></i></a></div>-->
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-8 col-sm-12 col-xs-12">
+				<div class="movie-single-ct main-content">
+					<h1 class="bd-hd">Sisyphus: The Myth<span> 2021</span></h1>
+					<div class="social-btn">
+						
+						<div class="hover-bnt">
+							<!-- AddToAny BEGIN -->
+							<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+							<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+							<a class="a2a_button_facebook"></a>
+							<a class="a2a_button_twitter"></a>
+							<a class="a2a_button_email"></a>
+							</div>
+							<script async src="https://static.addtoany.com/menu/page.js"></script>
+							<!-- AddToAny END -->
+						</div>		
+					</div>
+					<div class="movie-rate">
+						<div class="rate ">
+							<i class="ion-android-star"></i>
+							<i class="ion-android-star"></i>
+							<i class="ion-android-star"></i>
+							<i class="ion-android-star"></i>
+							<i class="ion-android-star"></i>
+							<i class="ion-android-star"></i>
+							<i class="ion-android-star"></i>
+							<i class="ion-android-star-half"></i>
+							<i class="ion-android-star-outline"></i>
+							<i class="ion-android-star-outline"></i>
+							<p><span>7.1 /10</span><br>
+								
+							</p>
+						</div>
+						<!--
+						<div class="rate-star">
+							<p>Rate This Movie:  </p>
+							<i class="ion-ios-star"></i>
+							<i class="ion-ios-star"></i>
+							<i class="ion-ios-star"></i>
+							<i class="ion-ios-star"></i>
+							<i class="ion-ios-star"></i>
+							<i class="ion-ios-star"></i>
+							<i class="ion-ios-star"></i>
+							<i class="ion-ios-star-half"></i>
+							
+						</div>
+					     -->
+					</div>
+					<div class="movie-tabs">
+						<div class="tabs">
+							<ul class="tab-links tabs-mv tabs-series"  style="padding-top: 2.5em;">
+								<li class="active"><a href="#overview">Overview</a></li>
+								
+								 
+								<li><a href="#reviews"> Comments</a></li> 
+								<li ><a href="#moviesrelated"> Related Shows</a></li>                        
+							</ul>
+						    <div class="tab-content">
+						        <div id="overview" class="tab active">
+						            <div class="row">
+						            	<div class="col-md-8 col-sm-12 col-xs-12">
+						            		<p>An unfathomable event introduces an engineer to dangerous secrets and to a woman from the future who has come looking for him.</p>
+						            		
+						            		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4292774813122950"
+						            		     crossorigin="anonymous"></script>
+						            		<ins class="adsbygoogle"
+						            		     style="display:block"
+						            		     data-ad-format="fluid"
+						            		     data-ad-layout-key="-hd+e-x-3t+ad"
+						            		     data-ad-client="ca-pub-4292774813122950"
+						            		     data-ad-slot="4961908480"></ins>
+						            		<script>
+						            		     (adsbygoogle = window.adsbygoogle || []).push({});
+						            		</script>
+											<div class="title-hd-sm">
+												<h4>cast</h4>
+												
+											</div>
+											<!-- movie cast -->
+											<div class="mvcast-item">											
+												<div class="cast-it">
+													<div class="cast-left">
+														
+														<a href="https://www.google.com/search?rlz=1C1RLNS_enGH914GH929&sxsrf=AOaemvKCUED-5nl_iDyoCAAGQpf95zKr0A:1632788197747&q=Park+Shin-hye&stick=H4sIAAAAAAAAAONgFuLVT9c3NMwzMDczK04uUeLUz9U3sDTMTs7W4gwJC8l3TC7JL1rEyhuQWJStEJyRmaebUZm6g5URACq72606AAAA&sa=X&ved=2ahUKEwjFlpSEsqDzAhWMAMAKHf1fBFwQxA16BAg9EAU">Park Shin-hye</a>
+													</div>
+													<p>... Gang Seo-hae</p>
+												</div>
+												<div class="cast-it">
+													<div class="cast-left">
+														
+														<a href="https://www.google.com/search?rlz=1C1RLNS_enGH914GH929&sxsrf=AOaemvKCUED-5nl_iDyoCAAGQpf95zKr0A:1632788197747&q=Cho+Seung-woo&stick=H4sIAAAAAAAAAONgFuLVT9c3NMwzMDczK04uUeLSz9U3MCrLTTPJ0eIMCQvJd0wuyS9axMrrnJGvEJxampeuW56fv4OVEQBOpWwrOwAAAA&sa=X&ved=2ahUKEwjFlpSEsqDzAhWMAMAKHf1fBFwQxA16BAg9EAc">Cho Seung-woo</a>
+													</div>
+													<p>... Han Tae-sul</p>
+												</div>
+												<div class="cast-it">
+													<div class="cast-left">
+														
+														<a href="https://www.google.com/search?rlz=1C1RLNS_enGH914GH929&sxsrf=AOaemvKCUED-5nl_iDyoCAAGQpf95zKr0A:1632788197747&q=Chae+Jong+Hyeop&stick=H4sIAAAAAAAAAONgFuLVT9c3NMwzMDczK04uUYJw00oKLAtNjNO1OEPCQvIdk0vyixax8jtnJKYqeOXnpSt4VKbmF-xgZQQA0JRPvEAAAAA&sa=X&ved=2ahUKEwjFlpSEsqDzAhWMAMAKHf1fBFwQxA16BAg9EAk">Chae Jong-hye</a>
+													</div>
+													<p>... Sun</p>
+												</div>
+												<div class="cast-it">
+													<div class="cast-left series-it">
+														
+														<div>
+															<div class="mvcast-item">											
+																<div class="cast-it">
+																	<div class="cast-left series-it">
+																		
+																		<div>
+																			<h2>SEASON 1</h2>
+																			
+																		</div>	
+																	</div>											
+																</div>	
+															</div>
+															   <div>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E01.540p-BaroMovie.mkv">Episode 1 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E01.720p-BaroMovie.mkv" >Episode 1 - 720p</a></div>
+															   </div>
+															   <?php include('in-ad.php') ?>
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E02.540p-BaroMovie.mkv">Episode 2 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E02.720p-BaroMovie.mkv" >Episode 2 - 720p</a></div>
+															   </div>
+
+															   <?php include('in-ad.php') ?>
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E03.540p-BaroMovie.mkv" >Episode 3 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E02.720p-BaroMovie.mkv" >Episode 3 - 720p</a></div>
+															   </div>
+															   
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E04.540p-BaroMovie.mkv" >Episode 4 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E04.720p-BaroMovie.mkv" >Episode 4 - 720p</a></div>
+															   </div>
+															   <?php include('in-ad.php') ?>
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E05.540p-BaroMovie.mkv" >Episode 5 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E05.720p-BaroMovie.mkv" >Episode 5 - 720p</a></div>
+															   </div>
+															   <?php include('in-addd.php') ?>
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E06.540p-BaroMovie.mkv" >Episode 6 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E06.720p-BaroMovie.mkv" >Episode 6 - 720p</a></div>
+															   </div>
+
+															  <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E07.540p-BaroMovie.mkv" >Episode 7 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E07.720p-BaroMovie.mkv" >Episode 7 - 720p</a></div>
+															   </div>
+															    <?php include('in-add.php') ?>
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E08.210311.480p-NEXT.mkv" >Episode 8 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E08.720p-BaroMovie.mkv" >Episode 8 - 720p</a></div>
+															   </div>
+
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E09.540p-BaroMovie.mkv" >Episode 9 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E09.720p-BaroMovie.mkv" >Episode 9 - 720p</a></div>
+															   </div>
+															   <?php include('in-ad.php') ?>
+															   
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E10.540p-BaroMovie.mkv" >Episode 10 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E10.720p-BaroMovie.mkv" >Episode 10 - 720p</a></div>
+															   </div>
+															   
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E11.540p-BaroMovie.mkv" >Episode 11 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E11.720p-BaroMovie.mkv" >Episode 11 - 720p</a></div>
+															   </div>
+															   <?php include('in-add.php') ?>
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E12.540p-BaroMovie.mkv" >Episode 12 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E12.720p-BaroMovie.mkv" >Episode 12 - 720p</a></div>
+															   </div>
+															   
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E13.540p-BaroMovie.mkv" >Episode 13 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E13.720p-BaroMovie.mkv" >Episode 13 - 720p</a></div>
+															   </div>
+															   <?php include('in-addd.php') ?>
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E14.540p-BaroMovie.mkv" >Episode 14 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E14.720p-BaroMovie.mkv" >Episode 14 - 720p</a></div>
+															   </div>
+
+															   <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E15.540p-BaroMovie.mkv" >Episode 15 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E15.720p-BaroMovie.mkv" >Episode 15 - 720p</a></div>
+															   </div>
+															    <li style='padding-top:2em;'>
+															     <a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/540p/Sisyphus.The.Myth.E16.480p-BaroMovie.mkv" >Episode 16 - 480p</a><div><a href="http://dl3.bardldl.xyz/Series/Korean/2021/Sisyphus.The.Myth/720p/Sisyphus.The.Myth.E16.720p-BaroMovie.mkv" >Episode 16 - 720p</a></div>
+															   </div>
+															<?php include('in-addd.php') ?>
+														</div>
+															
+													</div>											
+												</div>	
+												<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4292774813122950"
+												     crossorigin="anonymous"></script>
+												<ins class="adsbygoogle"
+												     style="display:block"
+												     data-ad-format="fluid"
+												     data-ad-layout-key="-hd+e-x-3t+ad"
+												     data-ad-client="ca-pub-4292774813122950"
+												     data-ad-slot="4961908480"></ins>
+												<script>
+												     (adsbygoogle = window.adsbygoogle || []).push({});
+												</script>
+											</div>
+											<?php include('updates.php') ?>
+											
+											
+						            	</div>
+						            	<div class="col-md-4 col-xs-12 col-sm-12">
+						            		
+						            		
+						            		
+						            		<div class="sb-it">
+						            			<h6>Genres & Tags:</h6>
+						            			<p>
+													<span id="genres" class="time"><a href="../genre/thriler.php">Thriller</a></span>
+													<span id="genres" class="time"><a href="../genre/sci-fi.php">Sci-Fi</a></span>
+													
+													
+													
+													
+						            			</p>
+						            		</div>
+						            		<div class="sb-it">
+						            			<h6>Writer: </h6>
+						            			<p><a href="https://asianwiki.com/Lee_Jae-In_(2004)">Lee Jae-in</a></p>
+						            		</div>
+						            		<div class="sb-it">
+						            			<h6>Network Company:</h6>
+						            			<p><a href="https://jtbc.joins.com/">JTBC</a></p>
+						            		</div>
+						            		<div class="ads">
+												<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4292774813122950"
+												     crossorigin="anonymous"></script>
+												<!-- for all kdrama -->
+												<ins class="adsbygoogle"
+												     style="display:block"
+												     data-ad-client="ca-pub-4292774813122950"
+												     data-ad-slot="5244785996"
+												     data-ad-format="auto"
+												     data-full-width-responsive="true"></ins>
+												<script>
+												     (adsbygoogle = window.adsbygoogle || []).push({});
+												</script>
+											</div>
+						            	</div>
+						            </div>
+						        </div>
+						       
+					       	 	<div id="reviews" class="tab review">
+						           <div class="row">
+						            	<div id="graphcomment"></div>
+						            	<script type="text/javascript">
+
+						            	  /* - - - CONFIGURATION VARIABLES - - - */
+
+						            	  var __semio__params = {
+						            	    graphcommentId: "korean", // make sure the id is yours
+
+						            	    behaviour: {
+						            	      // HIGHLY RECOMMENDED
+						            	      //  uid: "...", // uniq identifer for the comments thread on your page (ex: your page id)
+						            	    },
+
+						            	    // configure your variables here
+
+						            	  }
+
+						            	  /* - - - DON'T EDIT BELOW THIS LINE - - - */
+
+						            	  function __semio__onload() {
+						            	    __semio__gc_graphlogin(__semio__params)
+						            	  }
+
+
+						            	  (function() {
+						            	    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+						            	    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+						            	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+						            	  })();
+						            	  
+
+						            	</script>
+						            </div>
+					       	 	</div>
+					       	 	<?php include('related one.php') ?>
+						    </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<?php include('footer.php') ?>
+
+<script src="js/jquery.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/plugins2.js"></script>
+<script src="js/custom.js"></script>
+
+</body>
+
+<!-- seriessingle11:24-->
+</html>
