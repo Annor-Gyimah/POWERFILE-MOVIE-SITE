@@ -5,7 +5,7 @@ A Full fledge movie and series website where people can come and download movies
 ## USAGE
 * Download the zip file of this repo. OR
 * If on windows and using git-bash, you can clone the repository by this command.
-git clone https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE.git
+* git clone https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE.git
 
 ## SETTING UP
 * Download Xampp server and install.
