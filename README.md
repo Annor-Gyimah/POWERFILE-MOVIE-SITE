@@ -19,8 +19,11 @@ git clone https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE.git
 * Thats it.
 
 ## SCREENSHOT
-<img
-  src="screenshots/Screenshot(1).jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![Screenshot (1)](https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE/assets/68398911/895f0851-cf57-4252-9f4f-4339de2da46f)
+![Screenshot (3)](https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE/assets/68398911/dac541da-b4ed-4dda-a1c4-74d2c3597066)
+![Screenshot (5)](https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE/assets/68398911/5c0b76ce-8098-4893-9263-71e0578530b0)
+![Screenshot (6)](https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE/assets/68398911/e88ba41a-79be-4502-9473-477e1b0db9e3)
+
+
+
+
