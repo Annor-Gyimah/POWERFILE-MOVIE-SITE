@@ -8,9 +8,10 @@ A Full fledge movie and series website where people can come and download movies
 git clone https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE.git
 
 ## SETTING UP
-* Download xampp server and install.
+* Download Xampp server and install.
 * Open the Xampp Control Panel and start both the Apach Server and MySQL
-* Extract the zip file of the powerfile-movie-site repo into the Xampp directory. You can find it at Local Disk C.
+* Extract the zip file of the powerfile-movie-site repo into the Xampp htdocs directory. 
+  You can find it at Local Disk C.
 * Open phpmyadmin using your web browser by typing localhost/phpmyadmin/
 * Create a database called 'powerfil_search' and import the powerfil_search.sql.
 * You can view the site and make changes to the php files that you want.
@@ -18,4 +19,8 @@ git clone https://github.com/Annor-Gyimah/POWERFILE-MOVIE-SITE.git
 * Thats it.
 
 ## SCREENSHOT
-![My Image](screenshots/Screenshot(1).png)
+<img
+  src="screenshots/Screenshot(1).jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
